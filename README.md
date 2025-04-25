@@ -21,7 +21,7 @@ This toolchain converts Super Nintendo (SNES) ROMs into x86-64 assembly and opti
    ```
    This builds:
    - `recompiler.exe` (SNES ROM → `.asm`)
-   - `asm2exe.exe`     (NASM + linker wrapper)
+   - `asm2exe.exe`  (Not Completed)   (NASM + linker wrapper)
    - `gui.exe`         (optional Win32 GUI frontend)
 
 ## Usage
