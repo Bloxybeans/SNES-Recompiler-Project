@@ -30,6 +30,8 @@ This toolchain converts Super Nintendo (SNES) ROMs into x86-64 assembly and opti
 rem Generate x86-64 assembly from SNES ROM
 recompiler.exe game.sfc game.asm
 
+(For use with asm2exe move the built asm file to the project directory)
+
 rem Assemble & link into executable
 asm2exe.exe game.asm
 ```
