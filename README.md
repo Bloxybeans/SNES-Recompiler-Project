@@ -2,7 +2,7 @@
 
 This toolchain converts Super Nintendo (SNES) ROMs into x86-64 assembly and optionally into native Windows executables.
 
-## Currently Converts, but cannot be ran
+- This project will likely not be done or working well enough for personal use for some time
 
 ## Features
 - **Disassembles** 65c816 instructions from SNES ROMs into an intermediate representation.
