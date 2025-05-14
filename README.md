@@ -1,5 +1,7 @@
 # SNES-to-x86_64 Recompiler
 
+If anyone has enough knowledge to help me with this, contact me at quackahh123@gmail.com, or on discord, the link is in my bio.
+
 This toolchain converts Super Nintendo (SNES) ROMs into x86-64 assembly and optionally into native Windows executables.
 
 - This project will likely not be done or working well enough for personal use for some time
